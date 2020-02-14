@@ -11,7 +11,7 @@ Script can be used in Linux, Windows and macOS.
 2)You need to install drivers for your browser.<br/>  
 I use Firefox so if u want to use another browser please change:
 
-<18. self.driver = webdriver.Firefox() >
+«18. self.driver = webdriver.Firefox() »
 
 3)Script use ruCaptcha api. You should change api token.
 
